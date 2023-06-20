@@ -96,4 +96,3 @@ I’m a full-stack developer with a deep enthusiasm for bots. Being a full-stack
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
