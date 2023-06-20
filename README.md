@@ -6,11 +6,7 @@ I’m a full-stack developer with a deep enthusiasm for bots. Being a full-stack
  I am always eager to take on new challenges and expand my knowledge.   
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<br/>    
 
 - 🔭 I’m currently working on creating Bots capable of scraping content  
   
@@ -19,9 +15,6 @@ I’m a full-stack developer with a deep enthusiasm for bots. Being a full-stack
   
 
 - ❓  I am always eager to take on new challenges and expand my knowledge  
-
-
-</td><td valign="top" width="50%">
 
 
 
