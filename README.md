@@ -17,7 +17,7 @@ I’m a full-stack developer with a deep enthusiasm for bots. Being a full-stack
 - ❓  I am always eager to take on new challenges and expand my knowledge  
 
 ## Projects
-[Portfolio](https://github.com/shifoc/shifoc.github.io)
+[Portfolio](https://shifoc.github.io)
 
 🔭 Content Scraping Bots: I'm developing bots capable of efficiently scraping and extracting content from various sources. These bots will help automate data collection and analysis processes, enabling faster and more accurate insights.
 
